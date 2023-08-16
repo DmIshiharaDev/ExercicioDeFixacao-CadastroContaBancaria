@@ -3,20 +3,36 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace ExercicioDeFixacao_CadastroContaBancaria
 {
-    internal class CadastroConta
+    public class CadastroConta
     {
-        private int _conta { get ; set; }
-        private string _titular;
-        private char _opcao;
-       
-        private CadastroConta(int conta, string titular, char opcao) 
+        public int Numero { get; private set; }
+        public string Titular { get; set; }
+        public double Deposito { get; private set; }
+
+        public CadastroConta(int numero, string titular)
         {
-            _conta = conta;
-            _titular = titular;
-            _opcao = opcao;
+            Numero = numero;
+            Titular = titular;
         }
+
+        public CadastroConta(int numero, string titular, double deposito) : this(numero, titular) 
+        {
+            Deposito = deposito;
+        }
+
+        public override string ToString()
+        {
+            return "Conta "
+                + Numero
+                + ", Titular: "
+                + Titular
+                + ", Saldo: $"
+                + Deposito.ToString("f2", CultureInfo.InvariantCulture);
+        }
+
     }
 }
