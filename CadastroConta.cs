@@ -24,6 +24,16 @@ namespace ExercicioDeFixacao_CadastroContaBancaria
             Deposito = deposito;
         }
 
+        public void valorDeposito (double deposito)
+        {
+            Deposito += deposito;
+        }
+
+        public void valorSaque (double saque)
+        {
+            Deposito =  Deposito -5 - saque;
+        }
+
         public override string ToString()
         {
             return "Conta "
