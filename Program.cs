@@ -43,5 +43,7 @@ internal class Program
         double saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
         conta.valorSaque (saque);
         Console.WriteLine("Dados da conta atualizado: \n" + conta);
+
+        Console.ReadKey();
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\bin\Debug\net6.0\ExercicioDeFixacao-CadastroContaBancaria.exe
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\bin\Debug\net6.0\ExercicioDeFixacao-CadastroContaBancaria.deps.json
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\bin\Debug\net6.0\ExercicioDeFixacao-CadastroContaBancaria.runtimeconfig.json
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\bin\Debug\net6.0\ExercicioDeFixacao-CadastroContaBancaria.dll
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\bin\Debug\net6.0\ExercicioDeFixacao-CadastroContaBancaria.pdb
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\obj\Debug\net6.0\ExercicioDeFixacao-CadastroContaBancaria.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\obj\Debug\net6.0\ExercicioDeFixacao-CadastroContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\obj\Debug\net6.0\ExercicioDeFixacao-CadastroContaBancaria.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\obj\Debug\net6.0\ExercicioDeFixacao-CadastroContaBancaria.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\obj\Debug\net6.0\ExercicioDeFixacao-CadastroContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\obj\Debug\net6.0\ExercicioDeFixacao-CadastroContaBancaria.dll
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\obj\Debug\net6.0\refint\ExercicioDeFixacao-CadastroContaBancaria.dll
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\obj\Debug\net6.0\ExercicioDeFixacao-CadastroContaBancaria.pdb
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\obj\Debug\net6.0\ExercicioDeFixacao-CadastroContaBancaria.genruntimeconfig.cache
+C:\Users\DELL\Source\Repos\ExercicioDeFixacao-CadastroContaBancaria\obj\Debug\net6.0\ref\ExercicioDeFixacao-CadastroContaBancaria.dll

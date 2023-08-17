@@ -19,9 +19,9 @@ namespace ExercicioDeFixacao_CadastroContaBancaria
             Titular = titular;
         }
 
-        public CadastroConta(int numero, string titular, double deposito) : this(numero, titular) 
+        public CadastroConta(int numero, string titular, double depositoInicial) : this(numero, titular) 
         {
-            Deposito = deposito;
+            Deposito = depositoInicial;
         }
 
         public void valorDeposito (double deposito)
@@ -31,7 +31,7 @@ namespace ExercicioDeFixacao_CadastroContaBancaria
 
         public void valorSaque (double saque)
         {
-            Deposito =  Deposito -5 - saque;
+            Deposito -= saque + 5.0 ;
         }
 
         public override string ToString()
